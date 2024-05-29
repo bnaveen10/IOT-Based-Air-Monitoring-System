@@ -1,4 +1,4 @@
-# IoT-Based Air Pollution Monitoring System
+# IoT-Based Air Monitoring System
 
 ## Overview
 
